@@ -1,6 +1,6 @@
 # Projeto 1: Estimativa do impacto de variáveis relacionadas ao Diabetes
 
-O objetivo é investigar e quantificar atributos relacionados ao diabetes em diferentes conjuntos de dados públicas por meio de técnicas de seleção de atributos para determinar as principais variáveis relacionadas à doença.
+O objetivo é investigar e quantificar atributos relacionados ao diabetes em diferentes conjuntos de dados públicos por meio de técnicas de seleção de atributos para determinar as principais variáveis relacionadas à doença.
 
 Repositório do Projeto 1 da Residência em Engenharia de Ciência de Dados, realizada pelas instituições Cin/UFPE, SiDi e Samsung
 
