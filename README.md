@@ -1,4 +1,4 @@
-# Projeto1-Resid-SiDi
+# Projeto 1: Principais atributos relacionados à diabetes em datasets públicos
 Repositório do projeto 1 da Residência em Engenharia e Ciência de Dados, realizada pelas instituições Cin/UFPE, SiDi e Samsung
 
 #### Link para os arquivos:
