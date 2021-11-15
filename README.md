@@ -2,7 +2,7 @@
 
 O objetivo é investigar e quantificar atributos relacionados ao diabetes em diferentes conjuntos de dados públicas por meio de técnicas de seleção de atributos para determinar as principais variáveis relacionadas à doença.
 
-Repositório do projeto 1 da Residência em Engenharia e Ciência de Dados, realizada pelas instituições Cin/UFPE, SiDi e Samsung
+Repositório do Projeto 1 da Residência em Engenharia de Ciência de Dados, realizada pelas instituições Cin/UFPE, SiDi e Samsung
 
 #### Link para os arquivos:
 - Pima Indians Diabetes Database: diabetes_768.csv em https://www.kaggle.com/uciml/pima-indians-diabetes-database
