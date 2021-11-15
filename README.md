@@ -1,4 +1,4 @@
-# Projeto 1: Estimativa do impacto de vari ́aveis relacionadas ao Diabetes
+# Projeto 1: Estimativa do impacto de variáveis relacionadas ao Diabetes
 
 O objetivo é investigar e quantificar atributos relacionados ao diabetes em diferentes conjuntos de dados públicas por meio de técnicas de seleção de atributos para determinar as principais variáveis relacionadas à doença.
 
